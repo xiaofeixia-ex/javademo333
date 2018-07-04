@@ -4,5 +4,6 @@
 public class test {
     public  void go(){
         System.out.println("test.gobbbb");
+        System.out.println("test.gogoaaaa");
     }
 }
