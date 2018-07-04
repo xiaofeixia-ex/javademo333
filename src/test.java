@@ -3,6 +3,6 @@
  */
 public class test {
     public  void go(){
-        System.out.println("test.go");
+        System.out.println("test.gobbbb");
     }
 }
